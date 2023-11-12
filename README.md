@@ -37,51 +37,7 @@ Publish the website in the given URL.
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Area of Square Prism</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <!-- <style type="text/css">
-        body {
-            background-color:white;
-        }
-
-        .edge {
-            display: flex;
-            height: 100vh;
-            width: 100%;    
-            justify-content: center;
-            align-items: center;
-        }
-
-        .box {
-            display: block;
-            width: 500px;
-            min-height: 300px;
-            font-size: 20px;
-            background: rgb(7,85,152);
-            background: linear-gradient(90deg, rgba(7,85,152,1) 9%, rgba(7,142,150,1) 56%);
-            border-radius: 10px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
-
-        .formelt {
-            color: whitesmoke;
-            text-align: center;
-            margin-top: 7px;
-            margin-bottom: 6px;
-        }
-
-        h1 {
-            color: white;
-            text-align: center;
-            padding-top: 20px;
-        }
-        input{
-            margin: 5px;
-            padding: 5px;
-            border-radius: 5px;
-            border: none;
-
-        }
-    </style> -->
-        <style>
+    <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
